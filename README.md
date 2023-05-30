@@ -7,20 +7,23 @@
 
 ## <li>Latar Belakang</li>
 
-<text text-align: center> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tujuan dari aplikasi Data Nilai Siswa (Sistem Akademik Terpadu Purwadhika) adalah untuk mengelola  nilai siswa. Fitur utama yang terdapat pada aplikasi ini adalah dapat melakukan fungsi  CRUD (Create, Read, Update dan Delete) terhadap nilai-nilai siswa. Collection Data Types yang digunakan untuk menyimpan nilai siswa adalah dictionary dalam list. <br></text>
+<text text-align: center> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tujuan dari aplikasi Data Nilai Siswa (Sistem Akademik Terpadu Purwadhika) adalah untuk mengelola  nilai siswa. Fitur utama yang terdapat pada aplikasi ini adalah dapat melakukan fungsi  CRUD (Create, Read, Update dan Delete) terhadap nilai-nilai siswa. Collection Data Types yang digunakan untuk menyimpan nilai siswa adalah dictionary dalam list. <br>
   Menu yang dapat diakses pada aplikasi ini adalah sebagai berikut ini :
   <br>
-  <img src="https://user-images.githubusercontent.com/103922811/241995327-06690fce-5927-40cb-ba6e-1b58d41a55b2.png" width="400"/> 
-  
+  <img src="https://user-images.githubusercontent.com/103922811/241995327-06690fce-5927-40cb-ba6e-1b58d41a55b2.png" width="500"/> 
+  <br></br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Program flow yang terdapat pada aplikasi ini adalah seperti gambar berikut ini :
+  <img src="https://user-images.githubusercontent.com/103922811/242028082-55fb53fa-e130-4157-b6c2-9720d4ca334a.png" width="750"/> 
+  </text>
 <ol>
     <b><li>Menambah Nilai Siswa</li></b>
-    <text text-align: center;>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada menu ini, dengan memilih menu nomor 1, user dapat menambahkan nilai siswa. Apabila student belum terdaftar maka pengguna dapat memilih menu no 2 untuk mendaftarkan studentnya terlebih dahulu. Opsi nomor 3 dipilih apabila ingin kembali ke menu utama. Untuk memasukkan nilai siswa, pengguna perlu menginput NIS terlebih dahulu, apabila student (NIS) belum terdaftar, maka nilai tidak dapat diinput. Jika student sudah terdaftar, maka tahapan berikutnya adalah memvalidasi apakah student tersebut sudah memiliki nilai pada semester tersebut atau belum. Jika nilai pada seemester yang ingin diinput telah terisi, maka pengguna tidak dapat melakukan input nilai pada database.
+    <text text-align: center;>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada menu ini, dengan memilih menu nomor 1, user dapat menambahkan nilai siswa. Apabila student belum terdaftar maka pengguna dapat memilih menu no 2 untuk mendaftarkan studentnya terlebih dahulu. Opsi nomor 3 dipilih apabila ingin kembali ke menu utama. Untuk memasukkan nilai siswa, pengguna perlu menginput NIS terlebih dahulu, apabila student (NIS) belum terdaftar, maka nilai tidak dapat diinput. Jika student sudah terdaftar, maka tahapan berikutnya adalah memvalidasi apakah student tersebut sudah memiliki nilai pada semester tersebut atau belum. Jika nilai pada seemester yang ingin diinput telah terisi, maka pengguna tidak dapat melakukan input nilai pada database.
       <br>
       <img src="https://user-images.githubusercontent.com/103922811/241999207-c4cd39e8-cf0f-427a-8a45-019235df500b.png" width="700" height="165" /> 
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berikut adalah tampilan apabila pengguna berhasil memasukan nilai ke dalam <i>database</i>.
       <br>
-        <img src="https://user-images.githubusercontent.com/103922811/242000154-9a605d9d-f85a-40ea-b368-4a183ad80be3.png" width="400"/> 
+        <img src="https://user-images.githubusercontent.com/103922811/242000154-9a605d9d-f85a-40ea-b368-4a183ad80be3.png" width="500"/> 
   </text>
      <b><li>Menampilkan Nilai Siswa</li></b>
   <text>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selain dapat menginput nilai siswa, aplikasi ini juga dapat menampilkan nilai siswa. Nilai  siswa dapat ditampilkan secara keseluruhan (Menampilkan nilai seluruh semester) atau dapat memilih nilai pada semester tertentu saja. 
@@ -89,6 +92,7 @@ dan berikut merupakan tampilan mengurutkan siswa secara descending berdasarkan N
  <br></br>
 <img src="https://user-images.githubusercontent.com/103922811/242007840-1b72adbe-c8b3-4bf3-9000-01bc3feb348b.png" width="850" height="100"/>
 
+<text>Demikian aplikasi yang dibuat menggunakan python untuk mengelola nilai siswa. Pada aplikasi ini kita dapat menggunakan fungsi untuk menjalankan fitur CRUD (Create, Read, Update dan Delete) untuk mengelola nilai-nilai siswa. </text>
 
 </ol>
   
