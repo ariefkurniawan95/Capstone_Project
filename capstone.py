@@ -205,6 +205,9 @@ def app():
                     if is_semester_registered(index_upd,input_semester) == True: #validasi apakah semester sudah terdaftar
                         tampilkan_nilai_siswa(input_nim,input_semester) #menampilkan nilai sebelum  di perbaharui
                         perbaharui_nilai_per_semester(index_upd, input_semester) #memperbaharui nilai
+                        print(f"{130*'='}")
+                        print(f"{60*' '}Data Berhasil Diperbaharui!")
+                        print(f"{130*'='}")
                         input_menu = nav_menu()
                     else:
                         print()
