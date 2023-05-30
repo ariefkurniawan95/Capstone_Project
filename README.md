@@ -63,6 +63,32 @@ setelah memilih menu apakah akan menghapus nilai per semester atau data siswa, p
  <img src="https://user-images.githubusercontent.com/103922811/242006708-4afa636c-9419-4b66-bfe7-1cb52d79f753.png" width="700" height="140"/>
 <br></br>
 </text>
-  
+<br></br>
+    <b><li>Menambah Data Siswa</li></b>
+    <text>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berikut adalah fitur untuk menambahkan data siswa. Pada menu ini pengguna dapat mendadftarkan Nomor Induk Siswa(NIS) dan juga nama lengkap siswa. Apabila data berhasil ditambahkan maka akan muncul notifikasi bahwa data siswa telah berhasil ditambahkan.
+Berikut adalah tampilannya:
+  <br></br>
+<img src="https://user-images.githubusercontent.com/103922811/242007247-add25a95-b5d3-4e08-8efc-6709d43af49f.png" width="700" height="140"/>
+<br></br>
+    </text>
+   <b><li>Menampilkan Data Siswa</li></b>
+   <text>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menampilkan data siswa merupakan fitur terakhir yang ada pada aplikasi ini. pada menu ini pengguna dapat mengurutkan data siswa berdasarkan NISnya baik secara descending maupun ascending. Berikut adalah tampilannya menu dan hasil sortingnya. 
+ <br></br>
+<img src="https://user-images.githubusercontent.com/103922811/242007382-4e0ef905-6c46-469e-be83-629664d0d5b1.png" width="700" height="140"/>
+<br></br>
+Berikut adalah tampilan mengurutkan siswa secara ascending berdasarkan NISnya.
+<img src="https://user-images.githubusercontent.com/103922811/242007525-e543ab9f-5003-49b7-aea7-e37ea0a07c60.png" width="700" height="140"/>
+<br></br>
+dan berikut merupakan tampilan mengurutkan siswa secara descending berdasarkan NISnya.
+<img src="https://user-images.githubusercontent.com/103922811/242007653-7bb348be-9b83-4df2-ba94-721301a2635b.png" width="700" height="140"/>
+</text>
+<b><li>Exit</li></b>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pada navigasi yang terakhir ini, apabila user memasukan input 7, maka pengguna akan keluar dari program. berikut adalah tampilannya :
+ <br></br>
+<img src="https://user-images.githubusercontent.com/103922811/242007840-1b72adbe-c8b3-4bf3-9000-01bc3feb348b.png" width="850" height="100"/>
+
+
 </ol>
   
